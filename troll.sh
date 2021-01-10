@@ -80,7 +80,7 @@ load(){
 get_sms=$(curl -s http://zlucifer.com/api/hackbae.php?request=sms)
 get_call=$(curl -s http://zlucifer.com/api/hackbae.php?request=call)
 mulai (){
-    echo "Gunakan Troll Project Lagi?"
+    echo "Gunakan Troll Project Lagi?"kjbk
     echo "y/n?"
     echo
     read lagi
